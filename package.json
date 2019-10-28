@@ -1,11 +1,10 @@
 {
-    "title": "Resume",
-    "name": "startbootstrap-resume",
+    "title": "Nikhil's Personal Page",
+    "name": "nikhil-page",
     "version": "5.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "homepage": "https://startbootstrap.com/template-overviews/resume",
     "license": "MIT",
     "contributors": [
         "Nikhil Komirisetti"
